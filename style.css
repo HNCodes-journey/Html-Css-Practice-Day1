@@ -1,0 +1,13 @@
+table{
+    background-color: black;
+    color: white;
+    border: 2px solid red;
+}
+th,tr{
+    border: 2px solid green;
+    text-align: center;
+}
+tr,td{
+    border: 2px solid ghostwhite;
+    border-style: dotted;
+}
